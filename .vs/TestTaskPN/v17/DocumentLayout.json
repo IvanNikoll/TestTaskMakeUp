@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitRepositories\\TestTaskPN\\TestTaskPN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB288166-FFC1-7C04-9426-2B6157DA334C}|Assembly-CSharp.csproj|D:\\GitRepositories\\TestTaskPN\\TestTaskPN\\assets\\scripts\\handcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB288166-FFC1-7C04-9426-2B6157DA334C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\handcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB288166-FFC1-7C04-9426-2B6157DA334C}|Assembly-CSharp.csproj|d:\\gitrepositories\\testtaskpn\\testtaskpn\\assets\\scripts\\colourbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB288166-FFC1-7C04-9426-2B6157DA334C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\colourbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB288166-FFC1-7C04-9426-2B6157DA334C}|Assembly-CSharp.csproj|D:\\GitRepositories\\TestTaskPN\\TestTaskPN\\assets\\scripts\\lipstickitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB288166-FFC1-7C04-9426-2B6157DA334C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lipstickitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB288166-FFC1-7C04-9426-2B6157DA334C}|Assembly-CSharp.csproj|D:\\GitRepositories\\TestTaskPN\\TestTaskPN\\assets\\scripts\\brushitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB288166-FFC1-7C04-9426-2B6157DA334C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\brushitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB288166-FFC1-7C04-9426-2B6157DA334C}|Assembly-CSharp.csproj|D:\\GitRepositories\\TestTaskPN\\TestTaskPN\\assets\\scripts\\iapplicable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB288166-FFC1-7C04-9426-2B6157DA334C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\iapplicable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB288166-FFC1-7C04-9426-2B6157DA334C}|Assembly-CSharp.csproj|D:\\GitRepositories\\TestTaskPN\\TestTaskPN\\assets\\scripts\\fadeinsprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB288166-FFC1-7C04-9426-2B6157DA334C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fadeinsprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB288166-FFC1-7C04-9426-2B6157DA334C}|Assembly-CSharp.csproj|D:\\GitRepositories\\TestTaskPN\\TestTaskPN\\assets\\scripts\\makeupitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB288166-FFC1-7C04-9426-2B6157DA334C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\makeupitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB288166-FFC1-7C04-9426-2B6157DA334C}|Assembly-CSharp.csproj|D:\\GitRepositories\\TestTaskPN\\TestTaskPN\\assets\\scripts\\makeitemclickhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB288166-FFC1-7C04-9426-2B6157DA334C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\makeitemclickhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB288166-FFC1-7C04-9426-2B6157DA334C}|Assembly-CSharp.csproj|D:\\GitRepositories\\TestTaskPN\\TestTaskPN\\assets\\scripts\\makeupitemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB288166-FFC1-7C04-9426-2B6157DA334C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\makeupitemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB288166-FFC1-7C04-9426-2B6157DA334C}|Assembly-CSharp.csproj|D:\\GitRepositories\\TestTaskPN\\TestTaskPN\\assets\\scripts\\itemtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB288166-FFC1-7C04-9426-2B6157DA334C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\itemtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB288166-FFC1-7C04-9426-2B6157DA334C}|Assembly-CSharp.csproj|D:\\GitRepositories\\TestTaskPN\\TestTaskPN\\assets\\scripts\\makeupitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB288166-FFC1-7C04-9426-2B6157DA334C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\makeupitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB288166-FFC1-7C04-9426-2B6157DA334C}|Assembly-CSharp.csproj|D:\\GitRepositories\\TestTaskPN\\TestTaskPN\\assets\\scripts\\creamitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB288166-FFC1-7C04-9426-2B6157DA334C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\creamitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ColourButton.cs",
+              "DocumentMoniker": "D:\\GitRepositories\\TestTaskPN\\TestTaskPN\\Assets\\Scripts\\ColourButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ColourButton.cs",
+              "ToolTip": "D:\\GitRepositories\\TestTaskPN\\TestTaskPN\\Assets\\Scripts\\ColourButton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ColourButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T01:20:34.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreamItem.cs",
+              "DocumentMoniker": "D:\\GitRepositories\\TestTaskPN\\TestTaskPN\\Assets\\Scripts\\CreamItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CreamItem.cs",
+              "ToolTip": "D:\\GitRepositories\\TestTaskPN\\TestTaskPN\\Assets\\Scripts\\CreamItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CreamItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T01:31:11.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LipstickItem.cs",
+              "DocumentMoniker": "D:\\GitRepositories\\TestTaskPN\\TestTaskPN\\Assets\\Scripts\\LipstickItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LipstickItem.cs",
+              "ToolTip": "D:\\GitRepositories\\TestTaskPN\\TestTaskPN\\Assets\\Scripts\\LipstickItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LipstickItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T01:30:48.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BrushItem.cs",
+              "DocumentMoniker": "D:\\GitRepositories\\TestTaskPN\\TestTaskPN\\Assets\\Scripts\\BrushItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BrushItem.cs",
+              "ToolTip": "D:\\GitRepositories\\TestTaskPN\\TestTaskPN\\Assets\\Scripts\\BrushItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BrushItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T01:30:18.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IApplicable.cs",
+              "DocumentMoniker": "D:\\GitRepositories\\TestTaskPN\\TestTaskPN\\Assets\\Scripts\\IApplicable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\IApplicable.cs",
+              "ToolTip": "D:\\GitRepositories\\TestTaskPN\\TestTaskPN\\Assets\\Scripts\\IApplicable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\IApplicable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T01:28:45.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FadeInSprite.cs",
+              "DocumentMoniker": "D:\\GitRepositories\\TestTaskPN\\TestTaskPN\\Assets\\Scripts\\FadeInSprite.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FadeInSprite.cs",
+              "ToolTip": "D:\\GitRepositories\\TestTaskPN\\TestTaskPN\\Assets\\Scripts\\FadeInSprite.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FadeInSprite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T01:27:47.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MakeUpItemController.cs",
+              "DocumentMoniker": "D:\\GitRepositories\\TestTaskPN\\TestTaskPN\\Assets\\Scripts\\MakeUpItemController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MakeUpItemController.cs",
+              "ToolTip": "D:\\GitRepositories\\TestTaskPN\\TestTaskPN\\Assets\\Scripts\\MakeUpItemController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MakeUpItemController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T08:24:56.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MakeItemClickHandler.cs",
+              "DocumentMoniker": "D:\\GitRepositories\\TestTaskPN\\TestTaskPN\\Assets\\Scripts\\MakeItemClickHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MakeItemClickHandler.cs",
+              "ToolTip": "D:\\GitRepositories\\TestTaskPN\\TestTaskPN\\Assets\\Scripts\\MakeItemClickHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MakeItemClickHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T04:17:07.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MakeUpItemContext.cs",
+              "DocumentMoniker": "D:\\GitRepositories\\TestTaskPN\\TestTaskPN\\Assets\\Scripts\\MakeUpItemContext.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MakeUpItemContext.cs",
+              "ToolTip": "D:\\GitRepositories\\TestTaskPN\\TestTaskPN\\Assets\\Scripts\\MakeUpItemContext.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MakeUpItemContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T04:10:28.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ItemType.cs",
+              "DocumentMoniker": "D:\\GitRepositories\\TestTaskPN\\TestTaskPN\\Assets\\Scripts\\ItemType.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ItemType.cs",
+              "ToolTip": "D:\\GitRepositories\\TestTaskPN\\TestTaskPN\\Assets\\Scripts\\ItemType.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ItemType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA+wAAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T03:52:44.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MakeUpItem.cs",
+              "DocumentMoniker": "D:\\GitRepositories\\TestTaskPN\\TestTaskPN\\Assets\\Scripts\\MakeUpItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MakeUpItem.cs",
+              "ToolTip": "D:\\GitRepositories\\TestTaskPN\\TestTaskPN\\Assets\\Scripts\\MakeUpItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MakeUpItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T02:32:18.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HandController.cs",
+              "DocumentMoniker": "D:\\GitRepositories\\TestTaskPN\\TestTaskPN\\Assets\\Scripts\\HandController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HandController.cs",
+              "ToolTip": "D:\\GitRepositories\\TestTaskPN\\TestTaskPN\\Assets\\Scripts\\HandController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HandController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T02:20:08.542Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
